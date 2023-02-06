@@ -1,0 +1,48 @@
+header {
+    background-color: #f5d8dd;
+}
+
+body {
+    background-color: rgb(236, 236, 184);
+}
+
+.logo-escuela {
+    margin-top: 20px;
+}
+#title {
+    text-align: center;
+}
+
+
+#datos {
+    text-align: center;
+  
+}
+
+#calcularCalificaciones {
+    border: solid 2px #f0516c;
+}
+
+ #materiasFinal  {
+    
+    text-align: left;
+    text-decoration: none;
+    border: solid 2px #f0516c;
+}
+
+#datosMesa {
+    font-size: 1.3rem;
+}
+
+#listaAprobados {
+    font-size: 1.3rem;
+}
+
+ul#aprobados {
+    list-style-type: none;
+}
+footer {
+    background-image: url(../img/fondo.jpg);
+    color: antiquewhite;
+}
+
