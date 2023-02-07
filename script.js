@@ -1,6 +1,6 @@
 //El proyecto es una boleta virtual de calificaciones de los estudiantes , ellos ingresan sus datos , ingresan luego sus notas y si la nota final es igual o mayor a 18 aprueban para dar el examen final , da alerta si aprobo o no, luego van a ver mesa de examen con las materias disponibles que pueden rendir  
 //en caso caso de aprobarsale la alerta con la materia tal el dia  .ey html las materias disponibles ,y también finalmente la lista de alumnos aprobados Va quedar almacenado en el storag
-
+//objetos los alumnos ,todo se centra en ellos
 
 //1 Alerta de bienvenida
 // titulo principal calificaciones del estudiante escuela integral de arte free art 
